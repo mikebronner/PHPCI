@@ -17,7 +17,3 @@ PHPCI/Store/MigrationStore.php
 PHPCI/Store/Base/MigrationStoreBase.php
 
 composer
-
-composer.json
-
-composer.lock
